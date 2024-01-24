@@ -62,10 +62,10 @@ Object-Oriented Design Principles
 
 **Control**
 
-Move paddle left: Left Arrow Key
-Move paddle right: Right Arrow Key
-Jump: Spacebar
-Fly (Hold): Control + Shift
+- Move paddle left: Left Arrow Key
+- Move paddle right: Right Arrow Key
+- Jump: Spacebar
+- Fly (Hold): Control + Shift
 
 **The project adheres to fundamental object-oriented programming principles:**
 

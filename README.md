@@ -2,6 +2,7 @@
 Welcome to the "Infinite World" project, an interactive and evolving gaming experience where you take on the role of the main character, the Avatar. Immerse yourself in a dynamically generated world, crafted with a focus on object-oriented programming principles and designed to provide endless exploration and engagement.
 
 **Infinite World Implementation**
+
 The heart of the project lies in creating the illusion of an infinite world, achieved through dynamic terrain and tree generation. As the Avatar, you have the ability to explore, move, jump, and even take flight, shaping your journey through this captivating virtual environment.
 
 ![infinite-world](https://github.com/libbyyosef/Infinite-World/assets/36642026/299ecc51-6910-4b17-af37-7f13ef946136)
@@ -58,6 +59,13 @@ Implements a game over scenario triggered by avatar-dragon collisions, leading t
 
 Elevates the gaming experience with immersive soundtracks, allowing players to enjoy music while flying.
 Object-Oriented Design Principles
+
+**Control**
+
+Move paddle left: Left Arrow Key
+Move paddle right: Right Arrow Key
+Jump: Spacebar
+Fly (Hold): Control + Shift
 
 **The project adheres to fundamental object-oriented programming principles:**
 
